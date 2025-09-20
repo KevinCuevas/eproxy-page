@@ -6,7 +6,7 @@ export function Header() {
     <div className='header'>
       <div className='left-section'>
         <Link to='/' className='header-link'>
-          <img className='logo' src='/logo.webp' ></img>
+          <img className='logo' src='../../public/logo.webp' ></img>
         </Link>
       </div>
 
