@@ -19,7 +19,7 @@ export function Home() {
         </div>
 
         <div className='img-container'>
-          <img className='hero-img-demenstration' src='/Flakes-1.jpg'></img>
+          <img className='hero-img-demenstration' src='/eproxy-page/public/Flakes-1.jpg'></img>
           <img className='hero-img-demenstration' src='/Metallic-Gloss-1.jpg'></img>
         </div>
         
