@@ -1,0 +1,44 @@
+.about-us-hero-section{
+  background-image: url("../../public/Metallic-Gloss-2.jpg");
+  color: rgb(134, 199, 37);
+  height: 50vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-us-hero-section-text{
+  font-size: 50px;
+  font-weight: bold;
+  background-color: rgba(63, 63, 63, 0.568);
+}
+
+.about-us-second-section{
+  background-color: rgba(85, 85, 85, 0.2);
+  color: rgb(134, 199, 37);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 280px;
+  margin-right: 280px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  
+}
+
+.about-us-second-section-heading{
+  font-size: 40px;
+  font-weight: bold;
+  text-decoration: underline;
+  text-underline-offset: 10px;
+  margin-bottom: 10px;
+}
+
+.about-us-second-section-text{
+  font-size: 25px;
+  
+}

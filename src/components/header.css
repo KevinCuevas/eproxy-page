@@ -1,0 +1,25 @@
+.header{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+.nav-link{
+  margin-left: 10px;
+  margin-right: 10px;
+  color: rgb(134, 199, 37);
+  text-decoration: none;
+}
+
+.quote-link{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.logo{
+  width: 120px;
+  border-radius: 20px;
+}

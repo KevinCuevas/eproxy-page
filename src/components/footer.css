@@ -1,0 +1,17 @@
+.footer-container{
+  display: grid;
+  grid-template-columns: 300px 400px 400px;
+  color: rgb(134, 199, 37);
+  background-color: rgba(85, 85, 85, 0.5);
+  padding-top: 25px;
+}
+
+.footer-logo{
+  width: 100px;
+}
+
+.footer-heading{
+  font-size: 20px;
+  text-decoration: underline;
+  margin-bottom: 5px;
+}

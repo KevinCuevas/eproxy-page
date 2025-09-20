@@ -1,0 +1,33 @@
+.gallery-page-hero-container{
+  color: rgb(134, 199, 37);
+  background-color: rgba(85, 85, 85, 0.3);
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 30px;
+}
+
+.gallery-name{
+  font-size: 45px;
+  font-weight: bold;
+}
+
+.gallery-slogan{
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.gallery-text{
+  font-size: 18px;
+}
+
+.gallery-imgs-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.gallery-img{
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
