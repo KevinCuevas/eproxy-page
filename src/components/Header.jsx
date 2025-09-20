@@ -11,7 +11,7 @@ export function Header() {
       </div>
 
       <div className='right-section'>
-        <Link className='home-link nav-link' to='/'>Home</Link>
+        <Link className='home-link nav-link' to='/'>1Home</Link>
         <Link className='about-link nav-link' to='/about' >About</Link>
         <Link className='gallery-link nav-link' to='/gallery'>Gallery</Link>
         <Link className='service-link nav-link' to='/service'>Service</Link>
